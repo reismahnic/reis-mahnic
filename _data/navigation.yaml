@@ -1,0 +1,14 @@
+- headings: 'What I Make'
+  nav_items:
+    - title: 'Game Projects'
+      link: '/#game-projects'
+    - title: 'Software Development Projects'
+      link: '/#software-development-projects'
+- headings: 'Who I Am'
+  nav_items:
+    - title: 'About Reis Mahnic'
+      link: '/#about'
+    - title: 'Contact'
+      link: '/#contact'
+  
+

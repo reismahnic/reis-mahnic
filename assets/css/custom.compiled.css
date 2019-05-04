@@ -1,0 +1,40 @@
+body {
+  font-size: 1.2rem;
+}
+
+.serif {
+  font-family: "Droid Serif", serif;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 2px #696969;
+}
+
+.section-heading {
+  border-bottom: 1px solid #3171AA;
+  padding-bottom: .314em;
+}
+
+.side-menu {
+  font-size: 1.2rem;
+}
+
+.menu-heading, .side-menu li {
+  margin-bottom: .625em;
+}
+
+.card .card-img-top {
+  border-radius: 0;
+}
+
+.back-to-games {
+  font-size: 1rem;
+}
+
+.game-content {
+  max-width: 700px;
+}
+
+.game-card-container {
+  color: inherit;
+}

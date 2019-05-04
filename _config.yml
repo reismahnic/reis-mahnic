@@ -1,0 +1,21 @@
+collections:
+  games:
+    output: true
+  software:
+    output: true
+    
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+  - scope:
+      path: ""
+      type: "games"
+    values:
+      layout: "subpage"
+  - scope:
+      path: ""
+      type: "software"
+    values:
+      layout: "subpage"

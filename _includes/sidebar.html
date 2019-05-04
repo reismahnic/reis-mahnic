@@ -1,0 +1,21 @@
+<div class="col-12 col-md-4 min-vh-100 d-none d-md-block" id="sidebar">
+    <aside>
+        <div class="row pt-4 pb-3" style="background-color: #ffffff;">
+            <div class="col">
+                <h1 class="text-uppercase text-center font-weight-bolder"><a class="text-dark" href="/">{{ site.data.site.title}}</a></h1>
+                <h5 class="text-center my-2 serif"><em>{{site.data.site.subtitle}}</em></h5><small class="d-flex justify-content-end serif mt-3">Copyright&nbsp;© {{ site.data.site.owner }} <script>document.write(new Date().getFullYear())</script></small></div>
+        </div>
+        {% for heading in site.data.navigation %}
+            <div class="row text-white my-5">
+                    <div class="col px-5">
+                        <h5 class="text-uppercase text-center border-white menu-heading pb-1">{{ heading.headings }}</h5>
+                        <ul class="list-unstyled text-right serif font-italic side-menu">
+                            {% for nav_item in heading.nav_items %}
+                                <li><a class="text-white" href="{{ nav_item.link }}">{{ nav_item.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+        {% endfor %}
+    </aside>
+</div>
