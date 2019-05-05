@@ -12,7 +12,7 @@ title: Reis Mahnic - Video Games and Software Development
     <div class="row mb-5">
         {% for game in site.games %}
             <div class="col-12 col-sm-6 col-md-4">
-                <a href="{{ game.url }}" class="game-card-container">
+                <a href="{{ game.url | relative_url }}" class="game-card-container">
                     <div class="card rounded-0 mb-4"><img class="card-img-top w-100 d-block" src="{{ game.header_image }}">
                         <div class="card-body text-center">
                             <h4 class="card-title">{{ game.title }}</h4>
@@ -32,7 +32,7 @@ title: Reis Mahnic - Video Games and Software Development
 
         {% for project in site.software %}
             <div class="col-12 col-sm-6 col-md-4">
-                <a href="{{ game.url }}" class="game-card-container">
+                <a href="{{ game.url | relative_url }}" class="game-card-container">
                     <div class="card rounded-0 mb-4"><img class="card-img-top w-100 d-block" src="{{ project.header_image}}">
                         <div class="card-body text-center">
                             <h4 class="card-title">{{ project.title }}</h4>
