@@ -1,5 +1,6 @@
 backend:
-  name: master
+  name: github
+  repo: jweston491/reis-mahnic
 
 media_folder: media_folder
 
