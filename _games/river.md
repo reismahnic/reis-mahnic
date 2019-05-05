@@ -1,10 +1,9 @@
 ---
-title: The River
-short_name: river
-name: The River
-release_date: 2017
+title: Throw Me in the River Remake
+header_image: /assets/images/RiverRemake1.jpg
+release_date: 2019 WIP
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+*Project Manager, Writing, Programming, Design* 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A remake of Throw Me in the River, a visual novel I made in 2015. Remake is being redone from the ground up in the Ren'Py visual novel engine with high resolution art, writing improvements and new music. Throw Me in the River ties into Waiting for the Loop's narrative (for more information on *Waiting for the Loop* visit [Side Group's website](www.sidegroup.com)) and will be released on Steam and itch.io. More information will be made available as work on the game progresses.

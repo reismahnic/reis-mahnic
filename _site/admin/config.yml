@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: master
 
 media_folder: media_folder
 

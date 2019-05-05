@@ -19,3 +19,11 @@ defaults:
       type: "software"
     values:
       layout: "subpage"
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+plugins:
+- jekyll-autoprefixer
+  

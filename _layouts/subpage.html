@@ -3,12 +3,13 @@
 
 <div class="col px-0" id="main-content">
     <div class="jumbotron game-heading" style="background-image: url({{page.header_image}});background-size: cover;background-repeat: no-repeat;background-position: center;">
-        <h2 class="serif text-white font-weight-bolder text-center text-shadow font-italic p-5">The Game Title</h2>
+        <h2 class="serif text-white font-weight-bolder text-center text-shadow font-italic p-5">{{page.title}}</h2>
     </div>
     <p class="px-3"><a href="/#game-projects" class="text-dark serif font-italic back-to-games"><span style="text-decoration: underline;">&lt;- Back to games</span></a></p>
     <section class="game-content p-3 p-md-5 m-auto">
         <p><em>Release Date: {{ page.release_date }}</em></p>
         {{ content }}
-</section>
+        {% include donations.html %}
+    </section>
 
-{% include footer.html %}
+    {% include footer.html %}
