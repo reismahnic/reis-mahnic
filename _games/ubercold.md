@@ -1,7 +1,7 @@
 ---
 title: Ubercold
 release_date: 2019 WIP
-header_image: /assets/images/UBERCOLD4.jpg
+header_image: assets/images/UBERCOLD4.jpg
 ---
 <br>
 [View Side Group Website](https://sidegroup.com){: .btn .btn-primary .p-2 .text-uppercase}

@@ -1,3 +1,5 @@
+baseurl: /reis-mahnic
+
 collections:
   games:
     output: true
