@@ -2,7 +2,7 @@
     <aside>
         <div class="row pt-4 pb-3" style="background-color: #ffffff;">
             <div class="col">
-                <h1 class="text-uppercase text-center font-weight-bolder"><a class="text-dark" href="/">{{ site.data.site.title}}</a></h1>
+                <h1 class="text-uppercase text-center font-weight-bolder"><a class="text-dark" href="{{ site.baseurl }}/">{{ site.data.site.title}}</a></h1>
                 <h5 class="text-center my-2 serif"><em>{{site.data.site.subtitle}}</em></h5><small class="d-flex justify-content-end serif mt-3">Copyright&nbsp;© {{ site.data.site.owner }} <script>document.write(new Date().getFullYear())</script></small></div>
         </div>
         {% for heading in site.data.navigation %}
