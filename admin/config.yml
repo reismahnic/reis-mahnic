@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: jweston491/reis-mahnic
-  site_domain: serene-kilby-73230a.netlify.com
+  # site_domain: serene-kilby-73230a.netlify.com
 
 
 media_folder: assets/images
