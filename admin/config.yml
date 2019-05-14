@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: jweston491/reis-mahnic
-  site_domain: cms.netlify.com
+  # site_domain: cms.netlify.com
 
 
 media_folder: assets/images
