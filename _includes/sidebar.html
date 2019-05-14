@@ -11,7 +11,7 @@
                         <h5 class="text-uppercase text-center border-white menu-heading pb-1">{{ heading.headings }}</h5>
                         <ul class="list-unstyled text-right serif font-italic side-menu">
                             {% for nav_item in heading.nav_items %}
-                                <li><a class="text-white" href="{{ nav_item.link }}">{{ nav_item.title }}</a></li>
+                                <li><a class="text-white" href="{{ nav_item.link | | prepend:site.baseurl }}">{{ nav_item.title }}</a></li>
                             {% endfor %}
                         </ul>
                     </div>
