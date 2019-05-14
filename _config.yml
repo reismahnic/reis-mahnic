@@ -16,11 +16,13 @@ defaults:
       type: "games"
     values:
       layout: "subpage"
+      order: 0
   - scope:
       path: ""
       type: "software"
     values:
       layout: "subpage"
+      order: 0
 
 sass:
   sass_dir: assets/css

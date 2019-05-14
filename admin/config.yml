@@ -2,16 +2,46 @@ backend:
   name: github
   repo: jweston491/reis-mahnic
 
-media_folder: media_folder
+
+media_folder: assets/images
+public_folder: "/reis-mahnic/assets/images"
 
 collections:
+  # Games
   - name: games
-    label: Games
+    label: Game
     folder: _games
     create: true
     fields:
       - {name: title, label: Title, widget: string}
       - {name: release_date, label: Release Year, widget: date, format: 'YYYY' }
       - {name: header_image, label: Header Image, widget: image}
+      - {name: order, label: Order, widget: number, valueType: int, min: 0, default: 0}
       - {name: body, label: Content, widget: markdown}
+  # Software
+  - name: software
+    label: Software
+    folder: _software
+    create: true
+    fields:
+      - {name: title, label: Title, widget: string}
+      - {name: release_date, label: Release Year, widget: date, format: 'YYYY' }
+      - {name: header_image, label: Header Image, widget: image}
+      - {name: order, label: Order, widget: number, valueType: int, min: 0, default: 0}
+      - {name: body, label: Content, widget: markdown}
+
+  # Home Page
+
+  # Site Settings
+  - name: settings
+    label: Settings
+    files:
+      - name: site
+        label: Site Settings
+        file: _data/site.yaml
+        fields: 
+          - {name: title, label: Title, widget: string}
+          - {name: subtitle, label: Tagline, widget: string}
+          - {name: owner, label: Copyright, widget: string}
+
 
