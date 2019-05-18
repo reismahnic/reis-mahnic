@@ -1,7 +1,7 @@
 ---
 title: Throw Me in the River Remake
 release_date: 2019 WIP
-header_image: /reis-mahnic/assets/images/RiverRemake1.jpg
+header_image: /reis-mahnic/assets/images/riverremake1.jpg
 order: 1
 ---
 _Project Manager, Writing, Programming, Design_ 
