@@ -1,7 +1,7 @@
 ---
 title: Ubercold
 release_date: 2019 WIP
-header_image: assets/images/UBERCOLD4.jpg
+header_image: /reis-mahnic/assets/images/UBERCOLD4.jpg
 order: 2
 ---
 <br>
