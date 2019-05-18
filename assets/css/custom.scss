@@ -4,6 +4,11 @@
 body, html {
     font-family: 'Open Sans', sans-serif;
 }
+
+//Prevent images from overflowing their bounding boxes
+img {
+    max-width:100%;
+}
   
 .btn:hover {
     text-decoration: none;
