@@ -6,7 +6,7 @@ order: 3
 ---
 A walking simulator with randomly generated rooms in which you must mend fragmented memories, and find home in those who share space with you. The full game takes roughly 8-10 minutes to play through. dwell was made by a team of 6 over the course of 48 hours for the Global Game Jam 2019. It can be played in browser or downloaded on PC. 
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/1328186?color=bcaad2" allowfullscreen="" width="768" height="432"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/1328186?color=bcaad2" allowfullscreen="" width="1280" height="720"></iframe>
 
 <br>
 
