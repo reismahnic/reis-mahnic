@@ -30,4 +30,5 @@ sass:
 
 plugins:
 - jekyll-autoprefixer
+- jekyll-target-blank
   

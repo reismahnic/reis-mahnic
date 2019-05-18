@@ -9,13 +9,17 @@ title: Reis Mahnic - Video Games and Software Development
             <h2 class="d-inline-block section-heading mb-4 serif"><em>Game Projects</em></h2>
         </div>
     </div>
-    <div class="row mb-5">
+    <div class="row mb-5 ">
         {% assign games = site.games | sort: 'order' %}
         {% for game in games %}
-            <div class="col-12 col-sm-6 col-md-4">
-                <a href="{{ game.url | relative_url }}" class="game-card-container">
-                    <div class="card rounded-0 mb-4"><img class="card-img-top w-100 d-block" src="{{ game.header_image }}">
-                        <div class="card-body text-center">
+            <div class="col-12 col-sm-6 col-md-4 mb-4">
+                <a href="{{ game.url | relative_url }}" class="game-card-container h-100">
+                    <div class="card rounded-0 h-100">
+                        <div class="card-img-container">
+                            <img class="card-img-top w-100 d-block" src="{{ game.header_image }}">
+                        </div>
+                        
+                        <div class="card-body text-center d-flex flex-column justify-content-center">
                             <h4 class="card-title">{{ game.title }}</h4>
                             <h5 class="card-title"><em>{{ game.release_date }}</em></h5>
                         </div>
