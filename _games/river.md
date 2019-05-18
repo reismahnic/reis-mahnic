@@ -1,7 +1,8 @@
 ---
 title: Throw Me in the River Remake
-header_image: assets/images/RiverRemake1.jpg
 release_date: 2019 WIP
+header_image: assets/images/RiverRemake1.jpg
+order: 1
 ---
 
 *Project Manager, Writing, Programming, Design* 
