@@ -5,7 +5,7 @@ header_image: /reis-mahnic/assets/images/waitingloop1.jpg
 order: 5
 ---
 <br>
-\[View Side Group Website](https://sidegroupgames.com){:target="_blank" .btn .btn-primary .p-2 .text-uppercase}
+[View Side Group Website](https://sidegroupgames.com){:target="_blank" .btn .btn-primary .p-2 .text-uppercase}
 
 <br><br>
 
