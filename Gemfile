@@ -10,5 +10,3 @@ gem "jekyll-autoprefixer"
 
 gem "github-pages"
 
-gem "jekyll-target-blank"
-
