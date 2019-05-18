@@ -10,4 +10,4 @@ A walking simulator with randomly generated rooms in which you must mend fragmen
 
 <br>
 
-[DOWNLOAD ON PC OR PLAY IN BROWSER ](http://www.google.com){: .btn .btn-primary .p-2}
+[DOWNLOAD ON PC OR PLAY IN BROWSER ](https://katietdyer.itch.io/dwell){: .btn .btn-primary .p-2}
