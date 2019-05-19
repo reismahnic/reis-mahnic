@@ -1,5 +1,5 @@
 ---
-title: Dwell
+title: dwell
 release_date: 2019
 header_image: /reis-mahnic/assets/images/dwell5.jpg
 order: 3
@@ -10,6 +10,7 @@ A walking simulator with randomly generated rooms in which you must mend fragmen
 <br>
 
 [DOWNLOAD ON PC OR PLAY IN BROWSER ](https://katietdyer.itch.io/dwell){: .btn .btn-primary .p-2}
+
 <iframe src="https://player.vimeo.com/video/324784300" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Screenshots:
