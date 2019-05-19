@@ -3,7 +3,57 @@
 
 body, html {
     font-family: 'Open Sans', sans-serif;
+    background-color: #EEEEEE;
 }
+
+
+  .text-uppercase.text-center.border-white.menu-heading {
+    /*border-width: 2px;*/
+    /*border-style: dashed;*/
+    border-bottom: 2px dashed white;
+  }
+  
+  #sidebar {
+    background-color: #222;
+  }
+  
+  .serif {
+    font-family: "PT Serif", serif;
+  }
+  
+  .text-shadow {
+    text-shadow: 2px 2px 2px #696969;
+  }
+  
+  .section-heading {
+    border-bottom: 1px solid #3171AA;
+    padding-bottom: .314em;
+  }
+  
+  .side-menu {
+    font-size: 1.2rem;
+  }
+  
+  .menu-heading, .side-menu li {
+    margin-bottom: .625em;
+  }
+  
+  .card .card-img-top {
+    border-radius: 0;
+  }
+  
+  .back-to-games {
+    font-size: 1rem;
+  }
+  
+  .game-content {
+    max-width: 700px;
+  }
+  
+  .game-card-container {
+    color: inherit;
+  }
+  
 
 //Prevent images from overflowing their bounding boxes
 img {
@@ -38,5 +88,9 @@ img {
         top:0;
         position: absolute;
     }
+}
+
+.game-heading {
+    padding: 36% 0 0;
 }
   
