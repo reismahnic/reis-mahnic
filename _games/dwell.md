@@ -11,6 +11,9 @@ A walking simulator with randomly generated rooms in which you must mend fragmen
 
 [DOWNLOAD ON PC OR PLAY IN BROWSER ](https://katietdyer.itch.io/dwell){: .btn .btn-primary .p-2}
 
+<iframe src="https://player.vimeo.com/video/324784300" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/324784300">dwell Trailer</a> from <a href="https://vimeo.com/reismahnic">Reis Mahnic</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 Screenshots:
 ![](/reis-mahnic/assets/images/dwell2.jpg)
 
