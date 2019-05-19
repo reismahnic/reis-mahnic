@@ -55,8 +55,8 @@ body, html {
   }
   
 
-//Prevent images from overflowing their bounding boxes
-img {
+//Prevent images and iframes from overflowing their bounding boxes
+img, iframe {
     max-width:100%;
 }
   
