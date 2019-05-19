@@ -13,7 +13,6 @@ A visual novel about a border patrol in space built in Adventure Game Studio, ma
 
 <iframe src="https://player.vimeo.com/video/139040652" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
 Screenshots:
 
 ![](/reis-mahnic/assets/images/interstellar3.jpg)
