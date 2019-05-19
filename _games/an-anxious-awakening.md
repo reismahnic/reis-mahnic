@@ -10,7 +10,7 @@ _Producer, Writer, Programmer, Designer_
 
 A visual novel centered around grief set in a dream space. Built in Adventure Game Studio, made in one week for a jam that I hosted on an online forum. Team of 4.
 
-[DOWNLOAD ON PC](https://www.adventuregamestudio.co.uk/site/games/game/1987/){: .btn .btn-primary .p-2}
+[DOWNLOAD ON PC](https://www.adventuregamestudio.co.uk/site/games/game/1987/){:target="_blank" .btn .btn-primary .p-2}
 
 Screenshots:
 
