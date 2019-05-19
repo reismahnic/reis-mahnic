@@ -4,7 +4,7 @@ release_date: 2018
 header_image: /reis-mahnic/assets/images/farmyougrewupon1.jpg
 order: 4
 ---
-_Project Manager, Level & Gameplay Designer, Writer, Scripter, Art Director_
+_Producer, Level & Gameplay Designer, Writer, Scripter, Art Director_
 
 ![](/reis-mahnic/assets/images/farmgrewupon2.jpg)
 
