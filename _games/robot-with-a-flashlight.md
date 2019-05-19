@@ -12,6 +12,8 @@ A puzzle/platforming game built in Unity, made in 48 hours for the Global Gam Ja
 
 [Download on PC](https://globalgamejam.org/2015/games/robot-flashlight){:target="_blank" .btn .btn-primary .p-2 .text-uppercase}
 
+<iframe src="https://player.vimeo.com/video/117845321" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 Screenshots:
 
 ![](/reis-mahnic/assets/images/robot3.jpg)
