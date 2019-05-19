@@ -10,7 +10,7 @@ _Writer, Designer, Voice Actor_
 
 Help Joe Cuppa save his friends with his sick burns! Team of 5. Built over 48 hours, Hot Cuppa Joe placed in the top 16 entries for the Cartoon Network Game Jam. Hot Cuppa Joe was built in Unity. All screenshots are from builds of Hot Cuppa Joe during development, and were shared in blogs and social media while the game was in production.
 
-[DOWNLOAD ON PC](https://cristianohh.itch.io/hot-cuppa-joe){: .btn .btn-primary .p-2}
+[DOWNLOAD ON PC](https://cristianohh.itch.io/hot-cuppa-joe){:target="_blank" .btn .btn-primary .p-2}
 
 A documentary of our team's work during the Cartoon Network Game Jam can be viewed here:
 
