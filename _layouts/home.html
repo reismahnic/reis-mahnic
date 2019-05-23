@@ -35,11 +35,15 @@ title: Reis Mahnic - Video Games and Software Development
     </div>
     <div class="row mb-5">
         {% assign software = site.software | sort: 'order' %}
-        {% for project in site.software %}
+        {% for project in software %}
             <div class="col-12 col-sm-6 col-md-4">
                 <a href="{{ project.url | relative_url }}" class="game-card-container">
-                    <div class="card rounded-0 mb-4"><img class="card-img-top w-100 d-block" src="{{ project.header_image}}">
-                        <div class="card-body text-center">
+                    <div class="card rounded-0 h-100">
+                        <div class="card-img-container">
+                            <img class="card-img-top w-100 d-block" src="{{ project.header_image }}">
+                        </div>
+                        
+                        <div class="card-body text-center d-flex flex-column justify-content-center">
                             <h4 class="card-title">{{ project.title }}</h4>
                             <h5 class="card-title"><em>{{ project.release_date }}</em></h5>
                         </div>
