@@ -14,10 +14,10 @@ Help Joe Cuppa save his friends with his sick burns! Team of 5. Built over 48 ho
 
 A documentary of our team's work during the Cartoon Network Game Jam:
 
-<iframe height="640" width="360" src="https://www.youtube.com/embed/0CfTpaqX9qA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="360" width="640" src="https://www.youtube.com/embed/0CfTpaqX9qA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 A documentary of the entire game jam (including footage of the dialog recording!):
-<iframe height="640" width="360" src="https://www.youtube.com/embed/52Ly5DmDsvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="360" width="640" src="https://www.youtube.com/embed/52Ly5DmDsvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 Gameplay footage of Hot Cuppa Joe:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/158703077" width="100%" frameborder="0" allowfullscreen></iframe>
