@@ -12,15 +12,15 @@ Help Joe Cuppa save his friends with his sick burns! Team of 5. Built over 48 ho
 
 [DOWNLOAD ON PC](https://cristianohh.itch.io/hot-cuppa-joe){:target="_blank" .btn .btn-primary .p-2}
 
-A documentary of our team's work during the Cartoon Network Game Jam can be viewed here:
+A documentary of our team's work during the Cartoon Network Game Jam:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0CfTpaqX9qA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-And a documentary of the entire game jam (including footage of the dialog recording!) can be viewed here:
+And a documentary of the entire game jam (including footage of the dialog recording!):
 <br> <br>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/52Ly5DmDsvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-Gameplay footage of Hot Cuppa Joe can be viewed here:
+Gameplay footage of Hot Cuppa Joe:
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/158703077" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
