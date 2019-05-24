@@ -1,11 +1,10 @@
 backend:
   name: github
-  repo: jweston491/reis-mahnic
-  # site_domain: cms.netlify.com
+  repo: reismahnic/reis-mahnic
 
 
 media_folder: assets/images
-public_folder: "/reis-mahnic/assets/images"
+public_folder: "/assets/images"
 
 collections:
   # Games
