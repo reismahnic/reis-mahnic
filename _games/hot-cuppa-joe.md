@@ -18,7 +18,7 @@ A documentary of our team's work during the Cartoon Network Game Jam can be view
 <br>
 <br>
 And a documentary of the entire game jam (including footage of the dialog recording!) can be viewed here:
-<br>
+<br> <br>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/52Ly5DmDsvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 Gameplay footage of Hot Cuppa Joe can be viewed here:
