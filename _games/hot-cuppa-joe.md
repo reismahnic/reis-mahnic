@@ -21,7 +21,6 @@ A documentary of the entire game jam (including footage of the dialog recording!
 <iframe width="640" height="360" src="https://www.youtube.com/embed/52Ly5DmDsvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 Gameplay footage of Hot Cuppa Joe:
-
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/158703077" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 Screenshots:
