@@ -1,12 +1,12 @@
 ---
 title: Waiting for the Loop
 release_date: '2018'
-header_image: /reis-mahnic/assets/images/waitingloop1.jpg
+header_image: /assets/images/waitingloop1.jpg
 order: 5
 ---
 _Producer, Writer, Programmer, Designer, VO Director_
 
-![](/reis-mahnic/assets/images/waitingloop3.jpg)
+![](/assets/images/waitingloop3.jpg)
 
 A short form visual novel in which a brilliant computer scientist builds an artificial intelligence that passes as human... but also attracts the attention of the government. Team of 3. Features characters and events from Throw Me In The River and Interstellar Borders, but can be enjoyed and understood without knowledge of either. 
 
@@ -19,6 +19,6 @@ Fully voice acted, with 450+ lines of dialog. Roughly 15 minutes long. An early 
 
 Screenshots:
 
-![](/reis-mahnic/assets/images/waitingloop2.jpg)
+![](/assets/images/waitingloop2.jpg)
 
-![](/reis-mahnic/assets/images/waitingloop4.jpg)
+![](/assets/images/waitingloop4.jpg)

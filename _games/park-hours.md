@@ -1,12 +1,12 @@
 ---
 title: Park Hours
 release_date: '2013'
-header_image: /reis-mahnic/assets/images/park5.jpg
+header_image: /assets/images/park5.jpg
 order: 14
 ---
 _Solo Project_
 
-![](/reis-mahnic/assets/images/park2.jpg)
+![](/assets/images/park2.jpg)
 
 An exploration-based first person video game built in Microsoft Visual Studio Windows Forms and C# using images rendered in Vue Xstream. A solo project that I made in two weeks. The first game I made.
 
@@ -17,6 +17,6 @@ An exploration-based first person video game built in Microsoft Visual Studio Wi
 
 Screenshots:
 
-![](/reis-mahnic/assets/images/park3.jpg)
+![](/assets/images/park3.jpg)
 
-![](/reis-mahnic/assets/images/park4.jpg)
+![](/assets/images/park4.jpg)

@@ -1,12 +1,12 @@
 ---
 title: Interstellar Borders
 release_date: '2015'
-header_image: /reis-mahnic/assets/images/interstellar5.jpg
+header_image: /assets/images/interstellar5.jpg
 order: 12
 ---
 _Writer, Designer, Programmer_
 
-![](/reis-mahnic/assets/images/interstellar2.jpg)
+![](/assets/images/interstellar2.jpg)
 
 A visual novel about a border patrol in space built in Adventure Game Studio, made in 48 hours for Ludum Dare 32. Team of 4. Ties into a more recent game I made, Waiting for the Loop.
 
@@ -17,6 +17,6 @@ A visual novel about a border patrol in space built in Adventure Game Studio, ma
 
 Screenshots:
 
-![](/reis-mahnic/assets/images/interstellar3.jpg)
+![](/assets/images/interstellar3.jpg)
 
-![](/reis-mahnic/assets/images/interstellar4.jpg)
+![](/assets/images/interstellar4.jpg)

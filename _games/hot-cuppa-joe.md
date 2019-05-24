@@ -1,12 +1,12 @@
 ---
 title: Hot Cuppa Joe
 release_date: '2016'
-header_image: /reis-mahnic/assets/images/hotcuppa1.jpg
+header_image: /assets/images/hotcuppa1.jpg
 order: 7
 ---
 _Writer, Designer, Voice Actor_
 
-![](/reis-mahnic/assets/images/hotcuppa3.jpg)
+![](/assets/images/hotcuppa3.jpg)
 
 Help Joe Cuppa save his friends with his sick burns! Team of 5. Built over 48 hours, Hot Cuppa Joe placed in the top 16 entries for the Cartoon Network Game Jam. Hot Cuppa Joe was built in Unity. All screenshots are from builds of Hot Cuppa Joe during development, and were shared in blogs and social media while the game was in production.
 
@@ -26,6 +26,6 @@ Gameplay footage of hot cuppa Joe can be viewed here:
 
 Screenshots:
 
-![](/reis-mahnic/assets/images/hotcuppa2.jpg)
+![](/assets/images/hotcuppa2.jpg)
 
-![](/reis-mahnic/assets/images/hotcuppa4.jpg)
+![](/assets/images/hotcuppa4.jpg)

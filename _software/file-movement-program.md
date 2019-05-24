@@ -1,10 +1,10 @@
 ---
 title: File Movement Program
 release_date: '2017'
-header_image: /reis-mahnic/assets/images/python.png
+header_image: /assets/images/python.png
 order: 3
 ---
-![](/reis-mahnic/assets/images/pythonfilemovementprogram.jpg)
+![](/assets/images/pythonfilemovementprogram.jpg)
 
 A Python application that uses Tkinter to create a UI that moves files edited in the last 24 hours from one folder to another and displays the last time the program has been run.
 
