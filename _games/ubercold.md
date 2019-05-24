@@ -14,7 +14,7 @@ A stylish parody game featuring an unconventional weapon. Team of 5. In UBERCOLD
 
 [View Side Group Website](https://sidegroupgames.com){:target="_blank" .btn .btn-primary .p-2 .text-uppercase}
 
-<br>
+
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/296369486" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 Screenshots:
