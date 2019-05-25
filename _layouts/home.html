@@ -12,7 +12,7 @@ title: Reis Mahnic - Video Games and Software Development
     <div class="row mb-5 ">
         {% assign games = site.games | sort: 'order' %}
         {% for game in games %}
-            <div class="col-12 col-sm-6 col-md-4 mb-4">
+            <div class="col-12 col-sm-6 col-lg-4 mb-4">
                 <a href="{{ game.url | relative_url }}" class="game-card-container h-100">
                     <div class="card rounded-0 h-100">
                         <div class="card-img-container">
@@ -36,7 +36,7 @@ title: Reis Mahnic - Video Games and Software Development
     <div class="row mb-5">
         {% assign software = site.software | sort: 'order' %}
         {% for project in software %}
-            <div class="col-12 col-sm-6 col-md-4 mb-4">
+            <div class="col-12 col-sm-6 col-lg-4 mb-4">
                 <a href="{{ project.url | relative_url }}" class="game-card-container">
                     <div class="card rounded-0 h-100">
                         <div class="card-img-container">
