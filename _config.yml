@@ -34,4 +34,5 @@ sass:
 
 plugins:
 - jekyll-autoprefixer
+- jekyll-sitemap
   
