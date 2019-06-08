@@ -1,5 +1,5 @@
 ---
-title: Throw Me in the River Remake
+title: Throw Me in the River
 release_date: 2019 WIP
 header_image: /assets/images/riverremake1.jpg
 order: 1
