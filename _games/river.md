@@ -13,7 +13,7 @@ In Throw Me in the River, each scene takes place 20 years apart and examines the
 
 Throw Me in the River's narrative deals with familial relationships, regret, and compressed time. It was built in the Ren'Py visual novel engine with high resolution art, writing improvements and new music. Throw Me in the River ties into Waiting for the Loop's narrative (for more information on *Waiting for the Loop* visit [Side Group's website](http://sidegroupgames.com){:target="_blank"}) and will be released on Steam and itch.io. Throw Me in the River is a remake of a 2015 game jam game and features commentary galleries detailing its development process.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/jDePBFF_Gho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/jDePBFF_Gho' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <br>
 
