@@ -1,14 +1,14 @@
 ---
 title: Throw Me in the River (original jam game)
-release_date: '2015'
+release_date: "2015"
 header_image: /assets/images/river1.jpg
 order: 11
 ---
-_Producer, Writer, Programmer, Designer_
+*Producer, Writer, Programmer, Designer*
 
 ![](/assets/images/river2.jpg)
 
-A story-driven visual novel about family built in Adventure Game Studio, made in one week for a jam hosted by Portland Indie Game Squad. Team of 6. Ties into a more recent game I made, Waiting for the Loop. I am currently working on a remake of Throw Me in the River, rebuilt in a new engine with new visuals, music and writing improvements.
+A story-driven visual novel about family built in Adventure Game Studio, made in one week for a jam hosted by Portland Indie Game Squad. Team of 6. Ties into a more recent game I made, Waiting for the Loop. I recently completed development of a remake of Throw Me in the River, which can be found in my projects list. More information on this remake can be found at [www.sidegroupgames.com](www.sidegroupgames.com)
 
 [DOWNLOAD ON PC](http://www.adventuregamestudio.co.uk/site/games/game/1943/){:target="_blank" .btn .btn-primary .p-2}
 
