@@ -9,7 +9,7 @@ order: 2
 
 ![](/assets/images/ubercold4.jpg)
 
-A stylish parody game featuring an unconventional weapon. Team of 5. In UBERCOLD, your only means of attack is a gun with no bullets. Hurl it at your foes and control how it returns to you - losing sight of your gun leaves you defenseless. Features two modes of difficulty across 14 levels. Playthrough lasts roughly an hour. It is running in the Godot game engine. UBERCOLD was published by Side Group, and was built in the Godot engine. More information on UBERCOLD can be found at the Side Group website. UBERCOLD was built in a week for a game jam, then slowly touched up over the period of another month.
+A stylish parody game featuring an unconventional weapon. Team of 5. In UBERCOLD, your only means of attack is a gun with no bullets. Hurl it at your foes and control how it returns to you - losing sight of your gun leaves you defenseless. Features two modes of difficulty across 14 levels. Playthrough lasts roughly an hour. It is running in the Godot game engine. UBERCOLD was published by Side Group, and was built in the Godot engine. UBERCOLD was built in a week for a game jam, then slowly touched up over the period of another month.
 
 [DOWNLOAD ON PC FROM STEAM](https://store.steampowered.com/app/980160/UBERCOLD/){:target="_blank" .btn .btn-primary .p-2 .text-uppercase}
 
