@@ -2,7 +2,7 @@
 title: Throw Me in the River (original jam game)
 release_date: "2015"
 header_image: /assets/images/river1.jpg
-order: 11
+order: 12
 ---
 *Producer, Writer, Programmer, Designer*
 
