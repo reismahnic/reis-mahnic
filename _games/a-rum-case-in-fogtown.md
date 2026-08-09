@@ -14,7 +14,7 @@ Created by a team of comedy film veterans behind Hapstance Films, *A Rum Case i
 
 A﻿ Rum Case in Fogtown can be wishlisted now on [Steam](https://store.steampowered.com/app/2074870/A_Rum_Case_in_Fogtown/){:target="_blank"}. More information on Throw Me in the River can be found at the Side Group website.
 
-[View Side Group Website](https://www.sidegroupgames.com){:target="_blank")" .btn .btn-primary .p-2 .text-uppercase
+[View Side Group Website](https://www.sidegroupgames.com){:target="_blank")" .btn .btn-primary .p-2 .text-uppercase}
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/jDePBFF_Gho' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
