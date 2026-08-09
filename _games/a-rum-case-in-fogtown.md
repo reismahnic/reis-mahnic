@@ -6,7 +6,7 @@ order: 0
 ---
 ![](/assets/images/fogtownpic1.jpg)
 
-A﻿ Rum Case in Fogtown is an FMV adventure game codeveloped by Fogtown Games and Side Group Games that's made with real puppets!
+A﻿ Rum Case in Fogtown is an FMV adventure game codeveloped by Fogtown Games and Side Group that's made with real puppets!
 
 Players pick from frequent onscreen choices that branch the story into fun (and surprisingly deep) new directions, all leading to multiple different endings... some satisfyingly conclusive, and some absolutely bonkers. The result is a raucous and rollicking family-friendly adventure that feels like an interactive, replayable episode of your favorite comedy television show.
 
