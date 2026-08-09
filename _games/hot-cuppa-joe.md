@@ -1,8 +1,8 @@
 ---
 title: Hot Cuppa Joe
-release_date: '2016'
+release_date: "2016"
 header_image: /assets/images/hotcuppa1.jpg
-order: 7
+order: 8
 ---
 _Writer, Designer, Voice Actor_
 
