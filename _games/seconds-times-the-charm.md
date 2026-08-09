@@ -1,8 +1,8 @@
 ---
 title: Seconds Time's the Charm
-release_date: '2016'
+release_date: "2016"
 header_image: /assets/images/secondstimes1.jpg
-order: 8
+order: 9
 ---
 _Writer, Programmer, Designer_
 
