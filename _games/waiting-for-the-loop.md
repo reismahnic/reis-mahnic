@@ -2,7 +2,7 @@
 title: Waiting for the Loop
 release_date: "2018"
 header_image: /assets/images/waitingloop1.jpg
-order: 5
+order: 6
 ---
 _Producer, Writer, Programmer, Designer, VO Director_
 
