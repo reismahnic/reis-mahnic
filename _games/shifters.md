@@ -2,7 +2,7 @@
 title: Shifters
 release_date: "2016"
 header_image: /assets/images/shifters1.jpg
-order: 6
+order: 7
 ---
 *Solo Project*
 
