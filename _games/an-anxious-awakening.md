@@ -1,8 +1,8 @@
 ---
 title: An Anxious Awakening
-release_date: '2015'
+release_date: "2015"
 header_image: /assets/images/anxious4.jpg
-order: 9
+order: 10
 ---
 _Producer, Writer, Programmer, Designer_
 
