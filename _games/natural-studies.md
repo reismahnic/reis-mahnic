@@ -2,7 +2,7 @@
 title: Natural Studies
 release_date: "2015"
 header_image: /assets/images/natural2.jpg
-order: 10
+order: 11
 ---
 _Solo Project_
 
