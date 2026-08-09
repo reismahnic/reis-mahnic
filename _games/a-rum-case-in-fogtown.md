@@ -12,7 +12,7 @@ Players pick from frequent onscreen choices that branch the story into fun (and 
 
 Created by a team of comedy film veterans behind Hapstance Films, *A Rum Case in Fogtown* features a voice cast of renowned adventure game actors such as **Lenval Brown** (narrator of *Disco Elysium*), **Cissy Jones** (the BAFTA-winning actress who played Delilah in *Firewatch*), **Dean Erickson** (Gabriel Knight from *The Beast Within*), **Paul Morgan Stetler** (Curtis Craig in *Phantasmagoria: A Puzzle of Flesh*), and **Rupert Booth** (Inspector Jenks from *Contradiction*)
 
-A﻿ Rum Case in Fogtown can be wishlisted now on [Steam](https://store.steampowered.com/app/2074870/A_Rum_Case_in_Fogtown/){:target="_blank"}. More information on Throw Me in the River can be found at the Side Group website.
+A﻿ Rum Case in Fogtown can be wishlisted now on [Steam](https://store.steampowered.com/app/2074870/A_Rum_Case_in_Fogtown/){:target="_blank"}. More information can be found at the Side Group website.
 
 [View Side Group Website](https://www.sidegroupgames.com){:target="_blank")" .btn .btn-primary .p-2 .text-uppercase}
 
