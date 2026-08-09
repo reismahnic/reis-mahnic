@@ -1,6 +1,6 @@
 ---
 title: Waiting for the Loop
-release_date: '2018'
+release_date: "2018"
 header_image: /assets/images/waitingloop1.jpg
 order: 5
 ---
@@ -12,7 +12,7 @@ A short form visual novel in which a brilliant computer scientist builds an arti
 
 Fully voice acted, with 450+ lines of dialog. Roughly 15 minutes long. An early version of Waiting For the Loop was selected as Pick of the Month on Adventure Game Studio (the engine it was built in) in April 2017. Waiting For the Loop is the first game to be released by my company, Side Group. It is available now on [Steam](https://store.steampowered.com/app/717830/Waiting_for_the_Loop/){:target="_blank"} and  [itch.io](https://side-group.itch.io/waiting-for-the-loop){:target="_blank"}. More information on Waiting For the Loop can be found at the Side Group website.
 
-[View Side Group Website](https://sidegroupgames.com){:target="_blank" .btn .btn-primary .p-2 .text-uppercase}
+[View Side Group Website](https://www.sidegroupgames.com){:target="_blank" .btn .btn-primary .p-2 .text-uppercase}
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/230518869' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 <br>
